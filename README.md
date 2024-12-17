@@ -1,4 +1,4 @@
-# Sistem Prediksi Penyakit Diabetes Melitus
+# Program Skripsi (202011420025 - Akbar Febrian) Sistem Prediksi Penyakit Diabetes Melitus
 
 ## Deskripsi Proyek  
 Sistem ini bertujuan untuk **memprediksi risiko diabetes melitus** berdasarkan gejala yang diinputkan oleh pengguna. Dibangun menggunakan **Streamlit framework**, aplikasi ini menyediakan antarmuka yang interaktif dan mudah digunakan. Proyek ini memiliki **fitur login dan registrasi**, serta terintegrasi langsung dengan database untuk menyimpan riwayat prediksi.
