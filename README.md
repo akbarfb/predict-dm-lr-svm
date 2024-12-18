@@ -44,9 +44,9 @@ Sistem ini bertujuan untuk **memprediksi risiko diabetes melitus** berdasarkan g
 ```
 PREDICT-DM/
 ├───── app
-├───── login_register.py     # Modul login dan registrasi
-├───── prediksi.py           # Modul prediksi diabetes
-├───── riwayat.py            # Modul menampilkan riwayat prediksi
+│       ├───── login_register.py     # Modul login dan registrasi
+│       ├───── prediksi.py           # Modul prediksi diabetes
+│       ├───── riwayat.py            # Modul menampilkan riwayat prediksi
 ├── main.py                  # File utama untuk menjalankan Streamlit
 ├── diabetes.csv             # Dataset
 └──
